@@ -1,0 +1,2 @@
+# swaprofile
+SWA PowerShell Profile
